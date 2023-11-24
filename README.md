@@ -293,13 +293,9 @@
         > gem install bundle
 
   - Deploy to server from your local machine
+        > install bundle
   	> mina deploy
 
-## There is no step 8. Enjoy your deployment.
-
-## Revision
-  - Version 1.0 - Initial guide ([ThachChau](http://github.com/chautoni))
-  - Version 1.1 - Update guide to latest ruby version 2.2.3
   - Version 1.2 - Update missing command: install bundle before run `mina deploy`
 
 ## References
